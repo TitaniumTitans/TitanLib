@@ -5,7 +5,11 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Math" Type="Folder">
 		<Item Name="Distance From Target.vi" Type="VI" URL="../Distance From Target.vi"/>
+		<Item Name="RawUnitsToRPM-2048-CPR.vi" Type="VI" URL="../RawUnitsToRPM-2048-CPR.vi"/>
+		<Item Name="RawUnitsToRPM-4096-CPR.vi" Type="VI" URL="../RawUnitsToRPM-4096-CPR.vi"/>
 		<Item Name="RawUnitsToRPM.vi" Type="VI" URL="../RawUnitsToRPM.vi"/>
+		<Item Name="RPMToRawUnits-2048-CPR.vi" Type="VI" URL="../RPMToRawUnits-2048-CPR.vi"/>
+		<Item Name="RPMToRawUnits-4096-CPR.vi" Type="VI" URL="../RPMToRawUnits-4096-CPR.vi"/>
 		<Item Name="RPMToRawUnits.vi" Type="VI" URL="../RPMToRawUnits.vi"/>
 	</Item>
 	<Item Name="Output Control" Type="Folder">
